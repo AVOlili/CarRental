@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<!-- type用户类型 1表示系统管理员 2表示普通用户 -->
+	<user id="001" name="admin" realName="管理员" type="1" password="123"
+		phone="18710825069" car="" calRent="">
+	</user>
+	<user id="002" name="wangwu" realName="张三" type="2" password="223"
+		phone="18710825069" car="宝马	陕A100032" calRent="1800.0">
+	</user>
+	<user id="003" name="wan" realName="王五" type="2" password="223"
+		phone="1871082525069" car="" calRent="">
+	</user>
+	<user id="004" name="wawu" realName="张三" type="2" password="223"
+		phone="187102425069" car="" calRent="">
+	</user>
+	<user id="005" name="li" realName="李四" type="2" password="123"
+		phone="18710825069" car="" calRent="" />
+	<user id="1502088171685" name="avo" realName="李理" password="110"
+		phone="18292830801" type="1" />
+	<user id="1502634040152" name="avoli" realName="理" password="333"
+		phone="1225256" type="2" />
+</users>

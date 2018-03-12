@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+<car id="001" state="未租" dailyHire="800" type="X6" brand="宝马" num="陕A100022" lx="轿车" calRent="100" user="张三"/>
+<car id="002" state="已租" dailyHire="600" type="550i" brand="宝马" num="陕A100032" lx="轿车" calRent="1200.0" user="nkj"> </car>
+<car id="003" state="未租" dailyHire="300" type="林荫大道" brand="别克" num="陕A100042" lx="轿车" calRent="0" user=""> </car>
+<car id="004" state="未租" dailyHire="600" type="GL8" brand="别克" num="陕A100043" lx="轿车" calRent="0" user=""> </car>
+<car id="005" state="已租" dailyHire="600" type="16座位" brand="别克" num="陕A100043" lx="轿车" calRent="2400.0" user="avo"> </car>
+<car id="15031327" dailyHire="900" type="qdw" brand="sd" num="dfghjk89" lx="客车" state="已租" calRent="16560.0" user="dsdas"/></cars>
